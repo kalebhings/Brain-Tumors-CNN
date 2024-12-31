@@ -4,7 +4,7 @@ This repository contains the implementation of a machine learning project aimed 
 
 
 ## Project Overview
-Brain tumor detection is a critical task in medical imaging. This project uses MRI images to predict the presence of brain tumors, leveraging the power of transfer learning with the InceptionV3 model to achieve high accuracy and robust performance.
+Brain tumor detection is a critical task in medical imaging. This project uses MRI images to predict the presence of brain tumors, leveraging the power of transfer learning with the InceptionV3 model to achieve high accuracy and robust performance. Here is a [link](https://github.com/kalebhings/Brain-Tumors-CNN/blob/main/brain_tumors_cnn.ipynb) to the notebook where the code can be viewed and the results of it running in the notebook.
 
 ## Data Preprocessing
 - **Dataset:** The data used in this project was sourced from [Kaggle's Brain Tumor Dataset](https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset).
